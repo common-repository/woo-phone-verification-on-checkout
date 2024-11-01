@@ -1,0 +1,1 @@
+(()=>{"use strict";(0,window.wp.plugins.registerPlugin)("woo-phone-verification-on-checkout",{render:function(){},scope:"woocommerce-checkout"})})();
